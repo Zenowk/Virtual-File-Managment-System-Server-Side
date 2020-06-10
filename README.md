@@ -1,3 +1,3 @@
 # Virtual File Management System
 
-A virtual file management system implemented for a single .dat file
+A multi-threaded file management system based on client-server architecture implemented for a single .dat file.
